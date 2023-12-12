@@ -20,6 +20,8 @@ with IT related information, answers complex queries, and engages them in meanin
 
 ![Capture d'écran 2023-08-23 161615](https://github.com/ikram28/IT-Assistant/assets/86806466/c9a58205-dd25-4bf4-82fb-2217ce47d4a7)
 
+![Capture d'écran 2023-08-23 161719](https://github.com/ikram28/IT-Assistant/assets/86806466/62222779-a75e-4933-a7d3-0150d571fc42)
+
 
 # Results obtained with GPT-3.5-turbo
 
